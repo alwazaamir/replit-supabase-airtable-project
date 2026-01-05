@@ -4,7 +4,7 @@ A production-ready multi-tenant SaaS application built with Next.js, Supabase, S
 
 ## Features
 
-- **Multi-tenant Architecture**: Complete organization and member management dashboard
+- **Multi-tenant Architecture**: Complete organization and member management dashboard¡`
 - **Authentication**: Secure email/password authentication via Supabase
 - **Role-Based Access Control**: Admin, Editor, and Viewer roles
 - **Subscription Billing**: Stripe integration with Free, Pro, and Team plans
@@ -18,7 +18,7 @@ A production-ready multi-tenant SaaS application built with Next.js, Supabase, S
 ### Frontend
 - React 18 with TypeScript
 - Tailwind CSS + shadcn/ui components
-- TanStack Query for data fetching
+- TanStack Query for data catching`
 - Wouter for routing
 
 ### Backend
